@@ -1,4 +1,4 @@
-### Hi I am Mishel Perera I am Full Stack Software Engineer👋
+<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Mishel+Perera;I+am+Full+Stack+Software +Engineer.;And+I+am+a+FreeLancer.;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
 
 <!--
 **Mish880/Mish880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
