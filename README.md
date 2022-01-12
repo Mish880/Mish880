@@ -21,3 +21,8 @@
 </p>
 
 <a href="https://github.com/Mish880/github-readme-activity-graph"><img alt="Mishel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mish880&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center"> 
+  <h1>Visitor count</h1><br>
+  <img src="https://profile-counter.glitch.me/Mish880/count.svg" />
+</p>
