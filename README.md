@@ -21,7 +21,16 @@
  <img src="https://komarev.com/ghpvc/?username=Mish880&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-<a href="https://github.com/Mish880/github-readme-activity-graph"><img alt="Mishel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mish880&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+#
+<details>
+  <summary><h3>👨‍💻 Mishel's Software Engineering Journey</h3></summary>
+    My name is Mishel Perera. So I studied at St. Joseph Vaz college and I joined NSBM Green University for my higher studies. But I followed the 
+  degree only for 2 years as I prefer the IT Field sp I started to follow the software engineering degree in IJSE Campus as it was practically helping the students who are motivated in the IT field. In 3 semesters I have a good konwledge in learning the technologies and MERN Stack Technology. Now I am Software engineering internShip.
+I started my Software Enginnering cording Journey as a computer science student with a life passion to learn everything I could about this programming world - code , linux , theory. And all the while , teaching myself MERN Stack development with a dream to build my own apps.  
+    
+
+
+
 
 <p align="center"> 
   <h1>Visitor count</h1><br>
