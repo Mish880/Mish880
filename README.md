@@ -14,6 +14,23 @@
 |---|---|
 <img alt="Mishel Perera's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mish880&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
 
+### 🧰 Languages and Tools
+
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+
+
+
 <p align="Right">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mish880&color=brightgreen">
   <img alt="Profile followers" src="https://img.shields.io/github/followers/Mish880">
@@ -28,9 +45,6 @@
   degree only for 2 years as I prefer the IT Field sp I started to follow the software engineering degree in IJSE Campus as it was practically helping the students who are motivated in the IT field. In 3 semesters I have a good konwledge in learning the technologies and MERN Stack Technology. Now I am Software engineering internShip.
 I started my Software Enginnering cording Journey as a computer science student with a life passion to learn everything I could about this programming world - code , linux , theory. And all the while , teaching myself MERN Stack development with a dream to build my own apps.  
     
-
-
-
 
 <p align="center"> 
   <h1>Visitor count</h1><br>
