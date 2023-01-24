@@ -38,10 +38,7 @@
  <img src="https://komarev.com/ghpvc/?username=Mish880&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-#
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mishel Perera&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 #
 <details>
