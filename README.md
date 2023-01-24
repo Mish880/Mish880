@@ -12,7 +12,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mish880&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=Mish880&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
-<img alt="Mishel Perera's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mish880&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
+<img alt="Mishel Perera's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mish880&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mish880&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🧰 Languages and Tools
 
@@ -30,7 +33,6 @@
 
 
 
-
 <p align="Right">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mish880&color=brightgreen">
   <img alt="Profile followers" src="https://img.shields.io/github/followers/Mish880">
@@ -38,14 +40,17 @@
  <img src="https://komarev.com/ghpvc/?username=Mish880&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 #
 <details>
   <summary><h3>👨‍💻 Mishel's Software Engineering Journey</h3></summary>
     My name is Mishel Perera. So I studied at St. Joseph Vaz college and I joined NSBM Green University for my higher studies. But I followed the 
   degree only for 2 years as I prefer the IT Field sp I started to follow the software engineering degree in IJSE Campus as it was practically helping the students who are motivated in the IT field. In 3 semesters I have a good konwledge in learning the technologies and MERN Stack Technology. Now I am Software engineering internShip.
-I started my Software Enginnering cording Journey as a computer science student with a life passion to learn everything I could about this programming world - code , linux , theory. And all the while , teaching myself MERN Stack development with a dream to build my own apps.  
+I started my Software Enginnering cording Journey as a computer science student with a life passion to learn everything I could about this programming world - code , linux , theory. And all the while , teaching myself MERN Stack development with a dream to build my own apps.
+  
+ 
     
 
 <p align="center"> 
