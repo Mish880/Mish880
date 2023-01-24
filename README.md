@@ -39,6 +39,11 @@
 </p>
 
 #
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mishel Perera&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#
 <details>
   <summary><h3>👨‍💻 Mishel's Software Engineering Journey</h3></summary>
     My name is Mishel Perera. So I studied at St. Joseph Vaz college and I joined NSBM Green University for my higher studies. But I followed the 
